@@ -20,9 +20,4 @@ https://simpleicons.org/
 방문자수
 https://hits.seeyoufarm.com/ 로 가서 만들기
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gsi451)](https://solved.ac/gsi451)
-
-<img src="http://mazandi.herokuapp.com/api?handle={gsi451}&theme=warm"/>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsi451)](https://github.com/gsi451/github-readme-stats)
