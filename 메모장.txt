@@ -1,7 +1,7 @@
 리액터 공부중
-> https://ko.reactjs.org/docs/state-and-lifecycle.html
-> State와 생명주기.. 보는중.
-> https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Classes
-> 클래스 화면을 보는중.
-> https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-> 화살표 함수가 헷갈림 그래서 보는중.
+
+* 화살표 함수는 확실히 헷갈린다.
+
+
+> https://ko.reactjs.org/docs/lists-and-keys.html
+> 리스트와 Key 보는중.
