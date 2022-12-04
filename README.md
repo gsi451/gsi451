@@ -1,10 +1,13 @@
 마크다운 에디터 : https://stackedit.io/
 
 NickName : gsi451
+
 Email : gsi451@naver.com, gsi4517091@gmail.com
 
 잘하는 언어 : C++, MFC 20, 30, 40대 초반까지 대부분의 시간을 이걸 하고 살았음
+
 현재 배우는 언어 : React Native 공부중
+
 웹쪽 언어를 새롭게 배워나가는 중...
 
 <!---
