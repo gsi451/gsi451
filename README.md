@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @gsi451
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+마크다운 에디터 : https://stackedit.io/
 
-열심히 꾸며보자.
-나이 먹고 Git을 이제 시작
+NickName : gsi451
+Email : gsi451@naver.com, gsi4517091@gmail.com
+
+잘하는 언어 : C++, MFC 20, 30, 40대 초반까지 대부분의 시간을 이걸 하고 살았음
+현재 배우는 언어 : React Native 공부중
+웹쪽 언어를 새롭게 배워나가는 중...
 
 <!---
 gsi451/gsi451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
