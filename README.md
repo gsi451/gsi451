@@ -17,22 +17,4 @@
 ## 포트폴리오
 > ### [안드로이드 포트폴리오](https://gsi451.github.io/gsi451/Portfolio/android/Androidportfolio.html)
 
-<br/><br/>
-
-## 미정리 자료
-마크다운 에디터 : https://stackedit.io/
-
-<!---
-gsi451/gsi451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-Badge (뱃지)
-공식 로고 색상과 정확한 로고 이름 모아보는 사이트
-https://simpleicons.org/
-
-방문자수
-https://hits.seeyoufarm.com/ 로 가서 만들기
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsi451)](https://github.com/gsi451/github-readme-stats)
