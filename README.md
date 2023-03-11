@@ -9,6 +9,7 @@
 
 ### 현재 배우는 언어
 - React, React Native
+- swiftUI, typescript
 
 ### 전자관련 기술
 - Atmega128 회로 제작, Arduino 프로그램
@@ -16,5 +17,9 @@
 
 ### 포트폴리오
 > #### [안드로이드 포트폴리오](https://gsi451.github.io/gsi451/Portfolio/android/Androidportfolio.html)
+
+> 워커몬 앱 어플리케이션 개발
+> - PHP 와 웹뷰로 제작
+> - [안드로이드](https://play.google.com/store/apps/details?id=com.workermon.jobgood) 및 [아이폰](https://itunes.apple.com/kr/app/apple-store/1540248673) 서비스 중
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsi451)](https://github.com/gsi451/github-readme-stats)
