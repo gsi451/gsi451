@@ -7,5 +7,3 @@
 ### 현재 배우는 언어
 - PHP, 강화학습
 
-### 강화학습 홈페이지 운영중
-- RL TestBoard : https://rlboard.imweb.me/
